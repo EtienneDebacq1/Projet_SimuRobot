@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-05-03T13:40:03.522847750Z</date>
+  <millis>1777815603522</millis>
+  <nanos>847750</nanos>
+  <sequence>282</sequence>
+  <logger>sun.awt.X11.insets.XDecoratedPeer</logger>
+  <level>FINE</level>
+  <class>sun.awt.X11.XDecoratedPeer</class>
+  <method>handleConfigureNotifyEvent</method>
+  <thread>23</thread>
+  <message>Configure notify XConfigureEvent = type = ConfigureNotify, serial = 789, send_event = false, display = 138715970514336, event = 8388615, window = sun.awt.X11.XFramePeer@396f6598(800007), x = 0, y = 37, width = 1600, height = 863, border_width = 0, above = 10485919, override_redirect = false, </message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.542764751Z</date>
+  <millis>1777815603542</millis>
+  <nanos>764751</nanos>
+  <sequence>283</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.FileMenu[,0,0,35x21,invalid,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuItemBorder@12cdcf4,flags=256,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=File]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.543088078Z</date>
+  <millis>1777815603543</millis>
+  <nanos>88078</nanos>
+  <sequence>284</sequence>
+  <logger>sun.awt.X11.insets.XDecoratedPeer</logger>
+  <level>FINE</level>
+  <class>sun.awt.X11.XDecoratedPeer</class>
+  <method>handleConfigureNotifyEvent</method>
+  <thread>23</thread>
+  <message> - not visible, skipping</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.543652738Z</date>
+  <millis>1777815603543</millis>
+  <nanos>652738</nanos>
+  <sequence>285</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.FileMenu[,0,0,35x21,invalid,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuItemBorder@12cdcf4,flags=256,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=File]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.544339573Z</date>
+  <millis>1777815603544</millis>
+  <nanos>339573</nanos>
+  <sequence>286</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>26</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.544820229Z</date>
+  <millis>1777815603544</millis>
+  <nanos>820229</nanos>
+  <sequence>287</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewerMenuBar[,0,0,1920x23,invalid,layout=javax.swing.plaf.basic.DefaultMenuLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuBarBorder@25af5db5,flags=392,maximumSize=,minimumSize=,preferredSize=,margin=,paintBorder=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.545169744Z</date>
+  <millis>1777815603545</millis>
+  <nanos>169744</nanos>
+  <sequence>288</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewerMenuBar[,0,0,1920x23,invalid,layout=javax.swing.plaf.basic.DefaultMenuLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuBarBorder@25af5db5,flags=392,maximumSize=,minimumSize=,preferredSize=,margin=,paintBorder=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.545557880Z</date>
+  <millis>1777815603545</millis>
+  <nanos>557880</nanos>
+  <sequence>289</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>26</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.546226204Z</date>
+  <millis>1777815603546</millis>
+  <nanos>226204</nanos>
+  <sequence>290</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,1920x945,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.546575742Z</date>
+  <millis>1777815603546</millis>
+  <nanos>575742</nanos>
+  <sequence>291</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,1920x945,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.546915067Z</date>
+  <millis>1777815603546</millis>
+  <nanos>915067</nanos>
+  <sequence>292</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>26</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.547360848Z</date>
+  <millis>1777815603547</millis>
+  <nanos>360848</nanos>
+  <sequence>293</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,1920x945,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.547883311Z</date>
+  <millis>1777815603547</millis>
+  <nanos>883311</nanos>
+  <sequence>294</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,1920x945,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.548289844Z</date>
+  <millis>1777815603548</millis>
+  <nanos>289844</nanos>
+  <sequence>295</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>26</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.548654915Z</date>
+  <millis>1777815603548</millis>
+  <nanos>654915</nanos>
+  <sequence>296</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = javax.swing.JRootPane[,0,37,1920x945,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.548914505Z</date>
+  <millis>1777815603548</millis>
+  <nanos>914505</nanos>
+  <sequence>297</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = javax.swing.JRootPane[,0,37,1920x945,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.549194467Z</date>
+  <millis>1777815603549</millis>
+  <nanos>194467</nanos>
+  <sequence>298</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>26</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = false; disposing = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.552327260Z</date>
+  <millis>1777815603552</millis>
+  <nanos>327260</nanos>
+  <sequence>299</sequence>
+  <logger>sun.awt.X11.insets.XDecoratedPeer</logger>
+  <level>FINE</level>
+  <class>sun.awt.X11.XDecoratedPeer</class>
+  <method>handleConfigureNotifyEvent</method>
+  <thread>23</thread>
+  <message>Configure notify XConfigureEvent = type = ConfigureNotify, serial = 796, send_event = true, display = 138715970514336, event = 8388615, window = sun.awt.X11.XFramePeer@396f6598(800007), x = 160, y = 90, width = 1600, height = 863, border_width = 0, above = 0, override_redirect = false, </message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.553106835Z</date>
+  <millis>1777815603553</millis>
+  <nanos>106835</nanos>
+  <sequence>300</sequence>
+  <logger>sun.awt.X11.insets.XDecoratedPeer</logger>
+  <level>FINE</level>
+  <class>sun.awt.X11.XDecoratedPeer</class>
+  <method>handleConfigureNotifyEvent</method>
+  <thread>23</thread>
+  <message> - not visible, skipping</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.553689454Z</date>
+  <millis>1777815603553</millis>
+  <nanos>689454</nanos>
+  <sequence>301</sequence>
+  <logger>sun.awt.X11.insets.XDecoratedPeer</logger>
+  <level>FINE</level>
+  <class>sun.awt.X11.XDecoratedPeer</class>
+  <method>handleReparentNotifyEvent</method>
+  <thread>23</thread>
+  <message>XReparentEvent = type = ReparentNotify, serial = 796, send_event = false, display = 138715970514336, event = 8388615, window = sun.awt.X11.XFramePeer@396f6598(800007), parent = 1263, x = 160, y = 90, override_redirect = false, </message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.554164763Z</date>
+  <millis>1777815603554</millis>
+  <nanos>164763</nanos>
+  <sequence>302</sequence>
+  <logger>sun.awt.X11.insets.XDecoratedPeer</logger>
+  <level>FINE</level>
+  <class>sun.awt.X11.XDecoratedPeer</class>
+  <method>handleReparentNotifyEvent</method>
+  <thread>23</thread>
+  <message> - reparent due to hide</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.556901047Z</date>
+  <millis>1777815603556</millis>
+  <nanos>901047</nanos>
+  <sequence>303</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight=false</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.558355165Z</date>
+  <millis>1777815603558</millis>
+  <nanos>355165</nanos>
+  <sequence>304</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>26</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight = false</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.559491172Z</date>
+  <millis>1777815603559</millis>
+  <nanos>491172</nanos>
+  <sequence>305</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>26</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,0,32,1920x982,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Factory-0,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,37,1920x945,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = false; disposing = true</message>
+</record>
+<record>
+  <date>2026-05-03T13:40:03.560866028Z</date>
+  <millis>1777815603560</millis>
+  <nanos>866028</nanos>
+  <sequence>306</sequence>
+  <logger>java.lang.Runtime</logger>
+  <level>FINE</level>
+  <class>java.lang.Shutdown</class>
+  <method>logRuntimeExit</method>
+  <thread>26</thread>
+  <message>Runtime.exit() called with status: 0</message>
+  <exception>
+    <message>java.lang.Throwable: Runtime.exit(0)</message>
+    <frame>
+      <class>java.lang.Shutdown</class>
+      <method>logRuntimeExit</method>
+      <line>179</line>
+    </frame>
+    <frame>
+      <class>java.lang.Shutdown</class>
+      <method>exit</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>java.lang.Runtime</class>
+      <method>exit</method>
+      <line>188</line>
+    </frame>
+    <frame>
+      <class>java.lang.System</class>
+      <method>exit</method>
+      <line>1920</line>
+    </frame>
+    <frame>
+      <class>javax.swing.JFrame</class>
+      <method>processWindowEvent</method>
+      <line>311</line>
+    </frame>
+    <frame>
+      <class>java.awt.Window</class>
+      <method>processEvent</method>
+      <line>2044</line>
+    </frame>
+    <frame>
+      <class>java.awt.Component</class>
+      <method>dispatchEventImpl</method>
+      <line>4996</line>
+    </frame>
+    <frame>
+      <class>java.awt.Container</class>
+      <method>dispatchEventImpl</method>
+      <line>2324</line>
+    </frame>
+    <frame>
+      <class>java.awt.Window</class>
+      <method>dispatchEventImpl</method>
+      <line>2780</line>
+    </frame>
+    <frame>
+      <class>java.awt.Component</class>
+      <method>dispatchEvent</method>
+      <line>4828</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>775</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>720</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>714</line>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>400</line>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>87</line>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>98</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$5</class>
+      <method>run</method>
+      <line>747</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$5</class>
+      <method>run</method>
+      <line>745</line>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>400</line>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>87</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>744</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>203</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>124</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>101</line>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>90</line>
+    </frame>
+  </exception>
+</record>
+</log>
